@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#scoreBox {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#gamesList {
+  list-style-type: none;
+  padding: 0;
+}
+
+#gamesList li {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
